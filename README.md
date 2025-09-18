@@ -21,6 +21,8 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
 
+And:
+
 * a = simulated data
 * b = real data (anonym)
 
