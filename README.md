@@ -1,12 +1,18 @@
 # Computational Resources for Data-Driven Personas
 
+## Purpose
+
 This repository provides computational resources for data-driven persona research and practice. It contains links to existing datasets, a collection of prompts when using Generative AI in persona development, and example notebooks illustrating how conventional ML algorithms can be used in data-driven persona development.
 
 The purpose of the repository is to advance the scientific study of data-driven personas, particularly by advocating resource sharing and joint benchmarking of results.
 
+## License and how to learn more?
+
 The repository is made available under the MIT license.
 
 This is work by the Persona Team (https://personateam.xyz). If you are interested in doing a PhD on data-driven personas or other form of research collaboration, reach out to us!
+
+## File naming
 
 **Taxonomy:**
 PD = Persona Development Task Resource
