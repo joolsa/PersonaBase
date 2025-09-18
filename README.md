@@ -1,4 +1,4 @@
-#Computational Resources for Data-Driven Personas
+# Computational Resources for Data-Driven Personas
 
 This repository provides computational resources for data-driven persona research and practice. It contains links to existing datasets, a collection of prompts when using Generative AI in persona development, and example notebooks illustrating how conventional ML algorithms can be used in data-driven persona development.
 
