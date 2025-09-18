@@ -15,13 +15,13 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 ## File naming
 
 **Taxonomy:**
-PD = Persona Development Task Resource
-PE = Persona Evaluation Task Resource
-DS = Dataset Resource
-PP = Persona Prompt Resource
-PS = Persona System Resource
+* PD = Persona Development Task Resource
+* PE = Persona Evaluation Task Resource
+* DS = Dataset Resource
+* PP = Persona Prompt Resource
+* PS = Persona System Resource
 
-a = simulated data
-b = real data (anonym)
+* a = simulated data
+* b = real data (anonym)
 
 So, "PD01a" indicates a persona development task resource with ID of 01 that uses simulated data.
