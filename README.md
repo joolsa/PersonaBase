@@ -18,6 +18,7 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 * PD = Persona Development Task Resource
 * PE = Persona Evaluation Task Resource
 * DS = Dataset Resource
+* PN = Persona Entity Resource
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
 
