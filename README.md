@@ -21,6 +21,7 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 * PN = Persona Entity Resource
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
+* PR = Persona Repository Resource
 
 And:
 
