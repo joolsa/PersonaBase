@@ -6,6 +6,8 @@ This repository provides computational resources for data-driven persona researc
 
 The purpose of the repository is to advance the scientific study of data-driven personas, particularly by advocating resource sharing and joint benchmarking of results.
 
+NOTE: The code has been designed to run on Google Colab.
+
 ## License and how to learn more?
 
 The repository is made available under the MIT license.
