@@ -37,10 +37,10 @@ So, "PD01a" indicates a persona development task resource with ID of 01 that use
 A major portion of the code has been generated using AI (Claude 4 Sonnet). The code has been verified and tested by humans.
 
 ## Key contributors
-* Joni Salminen
-* Danial Amin
-* Ilkka Kaate
-* Bernard J. Jansen
+* Joni Salminen, University of Vaasa, Finland
+* Danial Amin, University of Vaasa, Finland
+* Ilkka Kaate, University of Turku, Finland
+* Bernard J. Jansen, Qatar Computing Research Institute, Hamad Bin Khalifa University, Qatar
 
 ## Citation
 
