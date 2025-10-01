@@ -1,4 +1,4 @@
-# Computational Resources for Data-Driven Personas
+# PersonaBench: Computational Resources for Data-Driven Personas
 
 ## Purpose
 
