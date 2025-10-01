@@ -1,4 +1,4 @@
-# Persona Systems Overview
+# Persona Systems
 
 Persona systems are computational frameworks and tools that generate, simulate, or represent user archetypes ("personas") from various types of data. They are used in domains such as design, AI research, and social simulation to model user needs, behaviors, and perspectives for evaluation, development, or decision-making.
 
