@@ -47,8 +47,8 @@ A major portion of the code has been generated using AI (Claude 4 Sonnet). The c
 If you found PersonaBench useful, please use the following citation:
 
 ```bibtex
-@misc{salminen2025PersonaBench,
-      title={PersonaBench: Developing Computational Resources for the Scientific Benchmarking of Data-Driven Personas}, 
+@misc{salminen2025PersonaBase,
+      title={PersonaBase: Developing Computational Resources for the Scientific Benchmarking of Data-Driven Personas}, 
       author={Joni Salminen and Danial Amin and Ilkka Kaate and Bernard J. Jansen},
       year={2025}
 }
