@@ -1,4 +1,4 @@
-# Persona Datasets Catalog
+# Persona Datasets
 
 Below is a summary of persona datasets used in HCI, NLP/ML, and related research. These datasets are open source datasets available online.
 
