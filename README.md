@@ -44,7 +44,7 @@ A major portion of the code has been generated using AI (Claude 4 Sonnet). The c
 
 ## Citation
 
-If you found PersonaBench useful, please use the following citation:
+If you found PersonaBase useful, please use the following citation:
 
 ```bibtex
 @misc{salminen2025PersonaBase,
