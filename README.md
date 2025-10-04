@@ -19,8 +19,7 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 **Taxonomy:**
 * PD = Persona Development Task Resource
 * PE = Persona Evaluation Task Resource
-* DS = Dataset Resource
-* PN = Persona Entity Resource
+* DS = Persona Dataset Resource
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
 * PR = Persona Repository Resource
