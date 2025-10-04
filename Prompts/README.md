@@ -1,4 +1,5 @@
 # Persona Creation Prompts – Catalog & Usage
+This repository compiles persona-creation prompts analyzed in “Using AI for User Representation: An Analysis of 83 Persona Prompts” (Salminen, Amin & Jansen, 2025).  If you use this in your work, please cite that paper and this collection as indicated at the end.
 
 ## Prompt Catalog (Table of Contents)
 
@@ -557,3 +558,18 @@ Expand on the following summary persona. Ensure that all the information provide
 [contents of persona_short]
 ```
 
+## References
+
+Salminen, J., Amin, D., & Jansen, B. (2025). *Using AI for User Representation: An Analysis of 83 Persona Prompts*. arXiv preprint arXiv:2508.13047.  
+URL: https://arxiv.org/abs/2508.13047
+
+```bibtex
+@article{salminen2025PersonaPrompts,
+  title        = {Using AI for User Representation: An Analysis of 83 Persona Prompts},
+  author       = {Salminen, Joni and Amin, Danial and Jansen, Bernard J.},
+  journal      = {arXiv preprint},
+  year         = {2025},
+  eprint       = {2508.13047},
+  url          = {https://arxiv.org/abs/2508.13047}
+}
+```
