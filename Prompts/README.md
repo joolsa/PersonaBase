@@ -2,7 +2,7 @@
 
 ## Prompt Catalog (Table of Contents)
 
-| ID | Paper Title | Publication_Date (MM-YYYY) | Link |
+| ID | Paper Title | Publication_Date | Link |
 |----|-------------|---------------|------|
 | PR01 | Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations | Oct-24 | [Link to Prompt](#pr01--why-am-i-seeing-this-democratizing-end-user-auditing-for-online-content-recommendations-Oct-24) |
 | PR02 | Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas | Jan-24 | [Link to Prompt](#pr02--picturing-the-fictitious-person-an-exploratory-study-on-the-effect-of-images-on-user-perceptions-of-ai-generated-personas-Jan-24) |
