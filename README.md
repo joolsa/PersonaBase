@@ -17,12 +17,11 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 ## File naming
 
 **Taxonomy:**
-* PD = Persona Development Task Resource
-* PE = Persona Evaluation Task Resource
+* PD = Persona Development Task Resource (under 'Notebooks')
+* PE = Persona Evaluation Task Resource (under 'Notebooks')
 * DS = Persona Dataset Resource
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
-* PR = Persona Repository Resource
 
 And:
 
