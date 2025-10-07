@@ -20,6 +20,7 @@ This is work by the Persona Team (https://personateam.xyz). If you are intereste
 * DS = Persona Dataset Resource
 * PP = Persona Prompt Resource
 * PS = Persona System Resource
+* PR = Persona Repository Resource
 
 And:
 
