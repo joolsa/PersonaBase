@@ -8,9 +8,7 @@ The purpose of the repository is to advance the scientific study of data-driven 
 
 NOTE: The code has been designed to run on Google Colab.
 
-## License and how to learn more?
-
-The repository is made available under the MIT license.
+## How to learn more?
 
 This is work by the Persona Team (https://personateam.xyz). If you are interested in doing a PhD on data-driven personas or other form of research collaboration, reach out to us!
 
