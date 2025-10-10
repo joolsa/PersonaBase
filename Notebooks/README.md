@@ -12,4 +12,4 @@
 | PE03a | Persona number and coverage assessment | This notebook demonstrates how using different number of personas in the persona set affect the coverage of the personas compared to the dataset. |
 | PE04a | Persona usage metrics illustration | This notebook demonstrates the computation and analysis of behavioral metrics for interactive persona systems. |
 | PE05b | Persona algorithm comparison | This notebook compares three different segmentation (NMF, PCA, and Clustering) techniques for persona generation. |
-| PE06b | Persona evaluation framework | This notebook creates a persona evaluation framework combining four different metrics (fairness, diversity, coverage, and consistency) and compares the three different persona generation techniques for different persona set sizes. |
+| PE06b | Persona leaderboard | This notebook creates a persona evaluation framework combining four different metrics (fairness, diversity, coverage, and consistency) and compares the three different persona generation techniques for different persona set sizes. |
