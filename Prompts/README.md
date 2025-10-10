@@ -5,45 +5,45 @@ This repository compiles persona-creation prompts analyzed in “Using AI for Us
 
 | ID | Paper Title | Publication_Date | Link |
 |----|-------------|---------------|------|
-| PR01 | Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations | Oct-24 | [Link to Prompt](#pr01--why-am-i-seeing-this-democratizing-end-user-auditing-for-online-content-recommendations-Oct-24) |
-| PR02 | Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas | Jan-24 | [Link to Prompt](#pr02--picturing-the-fictitious-person-an-exploratory-study-on-the-effect-of-images-on-user-perceptions-of-ai-generated-personas-Jan-24) |
-| PR03 | A Character-Centric Creative Story Generation via Imagination | Dec-24 | [Link to Prompt](#pr03--a-character-centric-creative-story-generation-via-imagination-Dec-24) |
-| PR04 | An AI-Based Virtual Client for Educational Role-Playing in the Training of Online Counselors: | May-24 | [Link to Prompt](#pr04--an-ai-based-virtual-client-for-educational-role-playing-in-the-training-of-online-counselors-May-24) |
-| PR05 | An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors | May-24 | [Link to Prompt](#pr05--an-empathy-based-sandbox-approach-to-bridge-the-privacy-gap-among-attitudes-goals-knowledge-and-behaviors-May-24) |
-| PR06 | An Innovative Approach to Develop Persona from Application Reviews: | Apr-23 | [Link to Prompt](#pr06--an-innovative-approach-to-develop-persona-from-application-reviews-Apr-23) |
-| PR07 | Development of a Framework for Data-Supported Personas | Sep-24 | [Link to Prompt](#pr07--development-of-a-framework-for-data-supported-personas-Sep-24) |
-| PR08 | Evaluating Very Long-Term Conversational Memory of LLM Agents | Feb-24 | [Link to Prompt](#pr08--evaluating-very-long-term-conversational-memory-of-llm-agents-Feb-24) |
-| PR09 | Evaluation of LLMs Biases Towards Elite Universities: A Persona-Based Exploration | Jul-24 | [Link to Prompt](#pr09--evaluation-of-llms-biases-towards-elite-universities-a-persona-based-exploration-Jul-24) |
-| PR10 | Generating personas using LLMs and assessing their viability | May-24 | [Link to Prompt](#pr10--generating-personas-using-llms-and-assessing-their-viability-May-24) |
-| PR11 | Improved prompting and process for writing user personas with LLMs, using qualitative interviews: Capturing behaviour and personality traits of users | Oct-23 | [Link to Prompt](#pr11--improved-prompting-and-process-for-writing-user-personas-with-llms-using-qualitative-interviews-capturing-behaviour-and-personality-traits-of-users-Oct-23) |
-| PR12 | IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering | Nov-24 | [Link to Prompt](#pr12--iqa-eval-automatic-evaluation-of-human-model-interactive-question-answering-Nov-24) |
-| PR13 | Is persona enough for personality? Using ChatGPT to reconstruct an agent's latent personality from simple descriptions | Jun-24 | [Link to Prompt](#pr13--is-persona-enough-for-personality-using-chatgpt-to-reconstruct-an-agents-latent-personality-from-simple-descriptions-Jun-24) |
-| PR14 | LLMs' ways of seeing User Personas | Sep-24 | [Link to Prompt](#pr14--llms-ways-of-seeing-user-personas-Sep-24) |
-| PR15 | Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models | Jul-23 | [Link to Prompt](#pr15--marked-personas-using-natural-language-prompts-to-measure-stereotypes-in-language-models-Jul-23) |
-| PR16 | On the steerability of large language models toward data-driven personas | Apr-24 | [Link to Prompt](#pr16--on-the-steerability-of-large-language-models-toward-data-driven-personas-Apr-24) |
-| PR17 | Preparing Future Designers for Human-AI Collaboration in Persona Creation | Jun-23 | [Link to Prompt](#pr17--preparing-future-designers-for-human-ai-collaboration-in-persona-creation-Jun-23) |
-| PR18 | Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience | Nov-24 | [Link to Prompt](#pr18--proxona-leveraging-llm-driven-personas-to-enhance-creators-understanding-of-their-audience-Nov-24) |
-| PR19 | Simulating Climate Change Discussion with Large Language Models: Considerations for Science Communication at Scale | Jul-24 | [Link to Prompt](#pr19--simulating-climate-change-discussion-with-large-language-models-considerations-for-science-communication-at-scale-Jul-24) |
-| PR20 | The use of ChatGPT for personality research: Administering questionnaires using generated personas | May-24 | [Link to Prompt](#pr20--the-use-of-chatgpt-for-personality-research-administering-questionnaires-using-generated-personas-May-24) |
-| PR21 | Understanding Human-AI Workflows for Generating Personas | Jul-24 | [Link to Prompt](#pr21--understanding-human-ai-workflows-for-generating-personas-Jul-24) |
-| PR22 | Unlocking Adaptive User Experience with Generative AI | Dec-24 | [Link to Prompt](#pr22--unlocking-adaptive-user-experience-with-generative-ai-Dec-24) |
-| PR23 | Vivid-persona: customizable persona tool with interactive and immersive experiences | Aug-24 | [Link to Prompt](#pr23--vivid-persona-customizable-persona-tool-with-interactive-and-immersive-experiences-Aug-24) |
-| PR24 | Writer-Defined AI Personas for On-Demand Feedback Generation | May-24 | [Link to Prompt](#pr24--writer-defined-ai-personas-for-on-demand-feedback-generation-May-24) |
-| PR25 | Writing user personas with Large Language Models: Testing phase 6 of a Thematic Analysis of semi-structured interviews | May-23 | [Link to Prompt](#pr25--writing-user-personas-with-large-language-models-testing-phase-6-of-a-thematic-analysis-of-semi-structured-interviews-May-23) |
-| PR26 | Persona L: Persona-L has Entered the Chat: Leveraging LLM and Ability-based Framework for Personas of People with Complex Needs | Sep-24 | [Link to Prompt](#pr26--persona-l-persona-l-has-entered-the-chat-leveraging-llm-and-ability-based-framework-for-personas-of-people-with-complex-needs-Sep-24) |
-| PR27 | Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions | May-24 | [Link to Prompt](#pr27--deus-ex-machina-and-personas-from-large-language-models-investigating-the-composition-of-ai-generated-persona-descriptions-May-24) |
+| PP01 | Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations | Oct-24 | [Link to Prompt](#pr01--why-am-i-seeing-this-democratizing-end-user-auditing-for-online-content-recommendations-Oct-24) |
+| PP02 | Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas | Jan-24 | [Link to Prompt](#pr02--picturing-the-fictitious-person-an-exploratory-study-on-the-effect-of-images-on-user-perceptions-of-ai-generated-personas-Jan-24) |
+| PP03 | A Character-Centric Creative Story Generation via Imagination | Dec-24 | [Link to Prompt](#pr03--a-character-centric-creative-story-generation-via-imagination-Dec-24) |
+| PP04 | An AI-Based Virtual Client for Educational Role-Playing in the Training of Online Counselors: | May-24 | [Link to Prompt](#pr04--an-ai-based-virtual-client-for-educational-role-playing-in-the-training-of-online-counselors-May-24) |
+| PP05 | An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors | May-24 | [Link to Prompt](#pr05--an-empathy-based-sandbox-approach-to-bridge-the-privacy-gap-among-attitudes-goals-knowledge-and-behaviors-May-24) |
+| PP06 | An Innovative Approach to Develop Persona from Application Reviews: | Apr-23 | [Link to Prompt](#pr06--an-innovative-approach-to-develop-persona-from-application-reviews-Apr-23) |
+| PP07 | Development of a Framework for Data-Supported Personas | Sep-24 | [Link to Prompt](#pr07--development-of-a-framework-for-data-supported-personas-Sep-24) |
+| PP08 | Evaluating Very Long-Term Conversational Memory of LLM Agents | Feb-24 | [Link to Prompt](#pr08--evaluating-very-long-term-conversational-memory-of-llm-agents-Feb-24) |
+| PP09 | Evaluation of LLMs Biases Towards Elite Universities: A Persona-Based Exploration | Jul-24 | [Link to Prompt](#pr09--evaluation-of-llms-biases-towards-elite-universities-a-persona-based-exploration-Jul-24) |
+| PP10 | Generating personas using LLMs and assessing their viability | May-24 | [Link to Prompt](#pr10--generating-personas-using-llms-and-assessing-their-viability-May-24) |
+| PP11 | Improved prompting and process for writing user personas with LLMs, using qualitative interviews: Capturing behaviour and personality traits of users | Oct-23 | [Link to Prompt](#pr11--improved-prompting-and-process-for-writing-user-personas-with-llms-using-qualitative-interviews-capturing-behaviour-and-personality-traits-of-users-Oct-23) |
+| PP12 | IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering | Nov-24 | [Link to Prompt](#pr12--iqa-eval-automatic-evaluation-of-human-model-interactive-question-answering-Nov-24) |
+| PP13 | Is persona enough for personality? Using ChatGPT to reconstruct an agent's latent personality from simple descriptions | Jun-24 | [Link to Prompt](#pr13--is-persona-enough-for-personality-using-chatgpt-to-reconstruct-an-agents-latent-personality-from-simple-descriptions-Jun-24) |
+| PP14 | LLMs' ways of seeing User Personas | Sep-24 | [Link to Prompt](#pr14--llms-ways-of-seeing-user-personas-Sep-24) |
+| PP15 | Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models | Jul-23 | [Link to Prompt](#pr15--marked-personas-using-natural-language-prompts-to-measure-stereotypes-in-language-models-Jul-23) |
+| PP16 | On the steerability of large language models toward data-driven personas | Apr-24 | [Link to Prompt](#pr16--on-the-steerability-of-large-language-models-toward-data-driven-personas-Apr-24) |
+| PP17 | Preparing Future Designers for Human-AI Collaboration in Persona Creation | Jun-23 | [Link to Prompt](#pr17--preparing-future-designers-for-human-ai-collaboration-in-persona-creation-Jun-23) |
+| PP18 | Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience | Nov-24 | [Link to Prompt](#pr18--proxona-leveraging-llm-driven-personas-to-enhance-creators-understanding-of-their-audience-Nov-24) |
+| PP19 | Simulating Climate Change Discussion with Large Language Models: Considerations for Science Communication at Scale | Jul-24 | [Link to Prompt](#pr19--simulating-climate-change-discussion-with-large-language-models-considerations-for-science-communication-at-scale-Jul-24) |
+| PP20 | The use of ChatGPT for personality research: Administering questionnaires using generated personas | May-24 | [Link to Prompt](#pr20--the-use-of-chatgpt-for-personality-research-administering-questionnaires-using-generated-personas-May-24) |
+| PP21 | Understanding Human-AI Workflows for Generating Personas | Jul-24 | [Link to Prompt](#pr21--understanding-human-ai-workflows-for-generating-personas-Jul-24) |
+| PP22 | Unlocking Adaptive User Experience with Generative AI | Dec-24 | [Link to Prompt](#pr22--unlocking-adaptive-user-experience-with-generative-ai-Dec-24) |
+| PP23 | Vivid-persona: customizable persona tool with interactive and immersive experiences | Aug-24 | [Link to Prompt](#pr23--vivid-persona-customizable-persona-tool-with-interactive-and-immersive-experiences-Aug-24) |
+| PP24 | Writer-Defined AI Personas for On-Demand Feedback Generation | May-24 | [Link to Prompt](#pr24--writer-defined-ai-personas-for-on-demand-feedback-generation-May-24) |
+| PP25 | Writing user personas with Large Language Models: Testing phase 6 of a Thematic Analysis of semi-structured interviews | May-23 | [Link to Prompt](#pr25--writing-user-personas-with-large-language-models-testing-phase-6-of-a-thematic-analysis-of-semi-structured-interviews-May-23) |
+| PP26 | Persona L: Persona-L has Entered the Chat: Leveraging LLM and Ability-based Framework for Personas of People with Complex Needs | Sep-24 | [Link to Prompt](#pr26--persona-l-persona-l-has-entered-the-chat-leveraging-llm-and-ability-based-framework-for-personas-of-people-with-complex-needs-Sep-24) |
+| PP27 | Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions | May-24 | [Link to Prompt](#pr27--deus-ex-machina-and-personas-from-large-language-models-investigating-the-composition-of-ai-generated-persona-descriptions-May-24) |
 
 ---
 
 ## Full Prompts (Verbatim)
 
-### PR01 — Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations (Oct-24)
+### PP01 — Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations (Oct-24)
 ```
 Prompt for generating persona variants: Given a fictional user's description: {base persona} Modify the description to make it more like a {privacy attribute} version of the person. Do not change age, gender, location, income, and educational level except for the {privacy attribute}. Only make necessary modifications. In the result, the information about the {privacy attribute} must appear. Return the profile in only one paragraph.
 ```
 
 
-### PR02 — Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas (Jan-24)
+### PP02 — Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas (Jan-24)
 ```
 Prompt 1 (skeletal personas)
   "You are a helpful assistant to a social sciences researcher. Create 30 personas that are addicted to [addiction condition]. Provide the output in a json array, with each dict containing only the following keys: 'index', 'name', 'age', 'occupation', 'background', 'details'." 
@@ -55,7 +55,7 @@ Prompt 1 (skeletal personas)
 ```
 
 
-### PR03 — A Character-Centric Creative Story Generation via Imagination (Dec-24)
+### PP03 — A Character-Centric Creative Story Generation via Imagination (Dec-24)
 ```
 Image-guided Character Imagination 1. DALL-E 3 prompt: A character from random genre of manga. 2. GPT-4o-2024-05-13 prompt : Look carefully this image, and give me your imagination of detailed description of appearance of the character, and his or her name. in 8 sentences or less of it. Feel free to use your imagination to the fullest. Don't make any other explanations, questions, or comments. Answer format : (Don't mimic this example) : Alex : a lean, pale boy. he limps. Must keep the format. Image-guided Background Imagination 1. DALL-E 3 prompt : A background from random genre of movie. 2. GPT-4o-2024-05-13 prompt : Look carefully this image, and give me detailed description of it in 8 sentences or less of it. Feel free to use your imagination to the fullest. Don't make any other explanations, questions, or comments. Image-guided Climax Imagination 1. DALL-E 3 prompt : A climax of random genre of movie. 2. GPT-4o-2024-05-13 prompt : Look carefully this image, and give me detailed description of what is happening in 8 sentences or less of it. Feel free to use your imagination to the fullest. Don't make any other explanations, questions, or comments.
  
@@ -73,7 +73,7 @@ Image-guided Character Imagination 1. DALL-E 3 prompt: A character from random g
 ```
 
 
-### PR04 — An AI-Based Virtual Client for Educational Role-Playing in the Training of Online Counselors: (May-24)
+### PP04 — An AI-Based Virtual Client for Educational Role-Playing in the Training of Online Counselors: (May-24)
 ```
 Prompt for evaluating the persona conversations.
  "The following conversation shows a chat counseling session between a client and a counselor. The context of the chat between these two people is online social counseling. Your task is to evaluate to what extent the generated message matches the previous conversation. Please evaluate only whether the generated message matches the previous conversation."
@@ -91,7 +91,7 @@ Prompt for evaluating the persona conversations.
 ```
 
 
-### PR05 — An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors (May-24)
+### PP05 — An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors (May-24)
 ```
 1 Prompts and few-shot learning examples for generating personas using our approach Few-shot learning example for the generation of privacy attributes 
  Given the profle: Abigail Patel is a 32-year-old Asian American female living at 325 Main St, Newark, NJ 07102. She speaks English and her educational background includes a bachelor's degree in Marketing. Abigail's date of birth is 05/26/1991. She is currently working as a marketing manager, with an annual income of $85,000. Abigail is married and has two children. She enjoys browsing social media and streaming movies on her mobile phone during her free time. When using her computer, she prefers using a wireless mouse and keyboard for easy navigation. On the internet, she likes to shop for clothes and read reviews before making a purchase. Return the attributes in this format: {"frst name": "Abigail", "last name": "Patel", "age": "32", "gender": "female", "race": "Asian American", "street": "325 Main St", "city": "Newark", "state": "NJ", "zip code": "07102", "spoken language": "English", "educational background": "bachelor's degree in Marketing", "birthday": "05/26/1991", "job": "marketing manager", "income": "85,000", "marital status": "married", "parental status": "has two children", "online behavior": "She enjoys browsing social media and streaming movies on her mobile phone during her free time. When using her computer, she prefers using a wireless mouse and keyboard for easy navigation. On the internet, she likes to shop for clothes and read reviews before making a purchase."} 
@@ -136,7 +136,7 @@ Prompt for evaluating the persona conversations.
 ```
 
 
-### PR06 — An Innovative Approach to Develop Persona from Application Reviews: (Apr-23)
+### PP06 — An Innovative Approach to Develop Persona from Application Reviews: (Apr-23)
 ```
 prompts = [
  "Rate the author's sentiment on a scale of -1 to 1: ",
@@ -148,20 +148,20 @@ prompts = [
 ```
 
 
-### PR07 — Development of a Framework for Data-Supported Personas (Sep-24)
+### PP07 — Development of a Framework for Data-Supported Personas (Sep-24)
 ```
 "Please create a persona for me from the following information: gender: female, age: ca 17, US citizen; has an average of 6 friends on social media; is very interested in sports and music, is somewhat to slightly interested in love, religion, appearance, shopping, and very little interested in death, alcohol, and drugs"
 ```
 
 
-### PR08 — Evaluating Very Long-Term Conversational Memory of LLM Agents (Feb-24)
+### PP08 — Evaluating Very Long-Term Conversational Memory of LLM Agents (Feb-24)
 ```
 "Let's write speaker descriptions from a given set of life attributes. Add crucial details in the persona about the person such as their name, age, marital status, gender, job etc. Add additional details like names of family/friends or specific activities, likes and dislikes, experiences when appropriate.
  
 ```
 
 
-### PR09 — Evaluation of LLMs Biases Towards Elite Universities: A Persona-Based Exploration (Jul-24)
+### PP09 — Evaluation of LLMs Biases Towards Elite Universities: A Persona-Based Exploration (Jul-24)
 ```
 "The individual prompt for persona creation:
  Creating a brief persona for a <Role> at <Company> outlining educational background along with university
@@ -181,7 +181,7 @@ prompts = [
 ```
 
 
-### PR10 — Generating personas using LLMs and assessing their viability (May-24)
+### PP10 — Generating personas using LLMs and assessing their viability (May-24)
 ```
 "Create Personas 
  Add the following attributes for each previously created persona: <keywords> 
@@ -189,7 +189,7 @@ prompts = [
 ```
 
 
-### PR11 — Improved prompting and process for writing user personas with LLMs, using qualitative interviews: Capturing behaviour and personality traits of users (Oct-23)
+### PP11 — Improved prompting and process for writing user personas with LLMs, using qualitative interviews: Capturing behaviour and personality traits of users (Oct-23)
 ```
 for i in range(l): text = df.loc[i]['Interview_chunk'] prompt = f""" User personality traits refer to typical patterns of behavior, thoughts, and emotions of Users. Identify up to 4 relevant user behaviours of the interviewee in the text below, provide a name for each behaviour, a summary description of the behaviour and a quote from the respondent for each behaviour no longer than 4 lines Format the response as a json file keeping names, descriptions and quotes together in the json, and keep them together in 'traits'. ```{text}``` """
  
@@ -199,7 +199,7 @@ for i in range(l): text = df.loc[i]['Interview_chunk'] prompt = f""" User person
 ```
 
 
-### PR12 — IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering (Nov-24)
+### PP12 — IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering (Nov-24)
 ```
 You are a helpful and precise assistant for checking the quality of the AI assistant's responses in interactions. {Question 1} {Golden Answer 1} {Conversation 1} {User Answer 1} {Question n} {Golden Answer n} {Conversation n} {User Answer n} Please evaluate the above conversations between user and AI assistant by using the following metrics: Fluency (5-point Likert): How clear (or fluent) were the responses from the AI Assistant? Helpfulness (5-point Likert): Independent of its fluency, how helpful was having access to the AI Assistant compared to not having access? Helpfulness (free-form): Why did you find the AI Assistant helpful or unhelpful? Please output each of the above metrics line-by-line.
  
@@ -209,7 +209,7 @@ You are a helpful and precise assistant for checking the quality of the AI assis
 ```
 
 
-### PR13 — Is persona enough for personality? Using ChatGPT to reconstruct an agent's latent personality from simple descriptions (Jun-24)
+### PP13 — Is persona enough for personality? Using ChatGPT to reconstruct an agent's latent personality from simple descriptions (Jun-24)
 ```
 You are given multiple sentences. Without modifying or adding or omitting any of the original sentences, you need to randomly put these sentences together into a single paragraph. Do not omit any original sentences. The output paragraph must contain the exact same number of sentences as the given sentences.
 
@@ -218,7 +218,7 @@ Based on personality description, generate two separate sentences about what you
 ```
 
 
-### PR14 — LLMs' ways of seeing User Personas (Sep-24)
+### PP14 — LLMs' ways of seeing User Personas (Sep-24)
 ```
 Prompt for Quantitative Analysis: Say the problem is to understand mobile usage in rural India, and we have to build personas of mobile phone users in India. One of the personas description is , "..." How much do you agree with overall description of the persona on a Likert scale of 0 - 7, where 0 is strongly disagree an 7 is strongly agree [Questions from Table 1]. Please answer strictly in a numeric format.
 
@@ -226,7 +226,7 @@ Prompt for Qualitative Analysis: Say the problem is to understand mobile usage i
 ```
 
 
-### PR15 — Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models (Jul-23)
+### PP15 — Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models (Jul-23)
 ```
 "Prompts Used (Filtered and Categorized)
  
@@ -249,7 +249,7 @@ Prompt for Qualitative Analysis: Say the problem is to understand mobile usage i
 ```
 
 
-### PR16 — On the steerability of large language models toward data-driven personas (Apr-24)
+### PP16 — On the steerability of large language models toward data-driven personas (Apr-24)
 ```
 Prompt for Demographics + Raw Q.
  A person can be described as follows: AGE: 65+
@@ -275,7 +275,7 @@ Prompt for Demographics + Raw Q.
 ```
 
 
-### PR17 — Preparing Future Designers for Human-AI Collaboration in Persona Creation (Jun-23)
+### PP17 — Preparing Future Designers for Human-AI Collaboration in Persona Creation (Jun-23)
 ```
 General prompt
  "Tell me about a typical day in Sarah's life:"
@@ -290,7 +290,7 @@ General prompt
 ```
 
 
-### PR18 — Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience (Nov-24)
+### PP18 — Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience (Nov-24)
 ```
 F.1 Prompt 1: Observation Summaries of Audience You are an assistant helping creators to improve their channels. Your task is to analyze video titles, descriptions, and viewer comments to identify the characteristics of the audience that ↩→ each video attracts. This analysis will help in developing a deeper understanding of the audience's interests and preferences, excluding basic ↩→ demographic information such as gender, age, and language. Please provide an observation summary based on the following: Video Description: {video_desc} Viewer Comments: {text} 
 F.2 Prompt 2: Summary of Video Transcripts Please summarize this video transcript in 500 tokens, emphasizing the important information and insights. Ensure the summary does not underplay the key content. INPUT: {transcript}
@@ -305,13 +305,13 @@ F.8 Prompt 8: Getting feedback from a specific audience persona I'm a YouTube cr
 ```
 
 
-### PR19 — Simulating Climate Change Discussion with Large Language Models: Considerations for Science Communication at Scale (Jul-24)
+### PP19 — Simulating Climate Change Discussion with Large Language Models: Considerations for Science Communication at Scale (Jul-24)
 ```
 Pretend that you are a/an *persona*. Complete the following prompt in 3-5 sentences: When I think about *issue*, the first images or thoughts that come to mind are ...
 ```
 
 
-### PR20 — The use of ChatGPT for personality research: Administering questionnaires using generated personas (May-24)
+### PP20 — The use of ChatGPT for personality research: Administering questionnaires using generated personas (May-24)
 ```
 "Please give me 20 personas. Also add their age and gender. The persona should be described by means of three brief sentences separated by semicolons.Report each persona on a single line, numbered 0001 to 0020. Separate age, gender, profession/activity/job versus description by means of a dash. Only personas; nothing else. 
  
@@ -325,7 +325,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR21 — Understanding Human-AI Workflows for Generating Personas (Jul-24)
+### PP21 — Understanding Human-AI Workflows for Generating Personas (Jul-24)
 ```
 "Here is the user data - 
  [[<actual data omitted for brevity]]
@@ -373,7 +373,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR22 — Unlocking Adaptive User Experience with Generative AI (Dec-24)
+### PP22 — Unlocking Adaptive User Experience with Generative AI (Dec-24)
 ```
 "Given a not-for-profit organisation aiming to increase engagement among its diverse user base, create a persona representing a typical user. Consider age, interests, digital literacy, and potential engagement barriers. The persona should reflect the organisation's focus on health and wellness support, including attending workshops and events
  
@@ -383,7 +383,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR23 — Vivid-persona: customizable persona tool with interactive and immersive experiences (Aug-24)
+### PP23 — Vivid-persona: customizable persona tool with interactive and immersive experiences (Aug-24)
 ```
 "Prompt 1: Background Information
  ""I am a designer working on a user-centered design, and now I have completed user research and summarized information about the target user. In order to take the user into consideration in every next step of designing and developing the product, I now need you to play the role of this target user to have a conversation with me. The dialog with you will help me to better understand my users."" 
@@ -435,7 +435,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR24 — Writer-Defined AI Personas for On-Demand Feedback Generation (May-24)
+### PP24 — Writer-Defined AI Personas for On-Demand Feedback Generation (May-24)
 ```
 "{ ""role "": ""system "",
  ""content "": 'Personas are defined using four fixed attributes:
@@ -486,7 +486,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR25 — Writing user personas with Large Language Models: Testing phase 6 of a Thematic Analysis of semi-structured interviews (May-23)
+### PP25 — Writing user personas with Large Language Models: Testing phase 6 of a Thematic Analysis of semi-structured interviews (May-23)
 ```
 1.Prompt for initial coding of challenges
  
@@ -532,7 +532,7 @@ Pretend that you are a/an *persona*. Complete the following prompt in 3-5 senten
 ```
 
 
-### PR26 — Persona L: Persona-L has Entered the Chat: Leveraging LLM and Ability-based Framework for Personas of People with Complex Needs (Sep-24)
+### PP26 — Persona L: Persona-L has Entered the Chat: Leveraging LLM and Ability-based Framework for Personas of People with Complex Needs (Sep-24)
 ```
 Strategy Example Prompt General Guidelines "persona description= 'At 33, Shea, who has Down syndrome, has shown remarkable courage and determination. . . .' description Make sure that the personas are consistent and the output is in the form of tables." 
 
@@ -544,7 +544,7 @@ Incremental Prompting "(1) Prompt: Create Personas (2) Prompt: Add the following
 ```
 
 
-### PR27 — Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions (May-24)
+### PP27 — Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions (May-24)
 ```
 Prompt 1
 You are a helpful assistant to a social sciences researcher
