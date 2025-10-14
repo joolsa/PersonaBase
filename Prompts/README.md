@@ -5,8 +5,8 @@ This repository compiles persona-creation prompts analyzed in “Using AI for Us
 
 | ID | Paper Title | Publication_Date | Link |
 |----|-------------|---------------|------|
-| PP01 | Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations | Oct-24 | [Link to Prompt](#pr01--why-am-i-seeing-this-democratizing-end-user-auditing-for-online-content-recommendations-Oct-24) |
-| PP02 | Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas | Jan-24 | [Link to Prompt](#pr02--picturing-the-fictitious-person-an-exploratory-study-on-the-effect-of-images-on-user-perceptions-of-ai-generated-personas-Jan-24) |
+| PP01 | Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations | Oct-24 | [Link to Prompt](#pp01--why-am-i-seeing-this-democratizing-end-user-auditing-for-online-content-recommendations-Oct-24) |
+| PP02 | Picturing the fictitious person: An exploratory study on the effect of images on user perceptions of AI-generated personas | Jan-24 | [Link to Prompt](#pp02--picturing-the-fictitious-person-an-exploratory-study-on-the-effect-of-images-on-user-perceptions-of-ai-generated-personas-Jan-24) |
 | PP03 | A Character-Centric Creative Story Generation via Imagination | Dec-24 | [Link to Prompt](#pr03--a-character-centric-creative-story-generation-via-imagination-Dec-24) |
 | PP04 | An AI-Based Virtual Client for Educational Role-Playing in the Training of Online Counselors: | May-24 | [Link to Prompt](#pr04--an-ai-based-virtual-client-for-educational-role-playing-in-the-training-of-online-counselors-May-24) |
 | PP05 | An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors | May-24 | [Link to Prompt](#pr05--an-empathy-based-sandbox-approach-to-bridge-the-privacy-gap-among-attitudes-goals-knowledge-and-behaviors-May-24) |
