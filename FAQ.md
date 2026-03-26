@@ -14,7 +14,7 @@ PersonaBase targets two primary audiences:
 ### What does PersonaBase contain?
 PersonaBase includes:
 
-- **computational notebooks** — 5 for persona development (PD01a–PD05a) and 6 for persona evaluation (PE01a–PE06b)
+- **computational notebooks** — for persona development (PD01a–PD05a) and persona evaluation (PE01a–PE06b)
 - **datasets** with either user data or personas (both synthetic and real)
 - **persona generation and evaluation prompts** collected from published research
 - **persona systems** cataloged from top HCI venues
