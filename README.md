@@ -44,8 +44,15 @@ A major portion of the code has been generated using AI (Claude 4 Sonnet). The c
 If you found PersonaBase useful, please use the following citation:
 
 ```bibtex
-@misc{salminen2025PersonaBase,
-      title={PersonaBase: Developing Computational Resources for the Scientific Benchmarking of Data-Driven Personas}, 
-      author={Joni Salminen and Danial Amin and Ilkka Kaate and Bernard J. Jansen},
-      year={2025}
+@inproceedings{salminen2026personabase,
+  author    = {Salminen, Joni and Amin, Danial and Kaate, Ilkka and Jansen, Bernard J.},
+  title     = {PersonaBase: Computational Resources for Advancing the Research and Practice of Data-Driven Personas},
+  booktitle = {Proceedings of the 14th Nordic Conference on Human-Computer Interaction (NordiCHI '26)},
+  year      = {2026},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  location  = {Vaasa, Finland},
+  isbn      = {979-8-4007-2373-5},
+  doi       = {10.1145/3829807.3829819},
+  url       = {https://doi.org/10.1145/3829807.3829819}
 }
