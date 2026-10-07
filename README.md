@@ -4,7 +4,7 @@
 
 This repository provides computational resources for data-driven persona research and practice. It contains links to existing datasets, a collection of prompts when using Generative AI in persona development, and example notebooks illustrating how conventional ML algorithms can be used in data-driven persona development.
 
-The purpose of the repository is to advance the scientific study of data-driven personas, particularly by advocating resource sharing and joint benchmarking of results.
+The purpose is to advance the research and practice of data-driven personas, as well as to advocate for resource sharing and benchmarking of results.
 
 NOTE: The code has been designed to run on Google Colab.
 
